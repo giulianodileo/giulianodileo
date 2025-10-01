@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hey there! I'm Giuliano
 
-<!--
-**giulianodileo/giulianodileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data/AI professional with a background in tech recruitment and no-code automation.
+I started my journey helping tech teams grow, then got hooked on solving problems with data and AI.
 
-Here are some ideas to get you started:
+🎯 Recently graduated from a Data Science & AI bootcamp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Interested in data analysis, machine learning, and generative AI
+
+⚙️ I focus on clean, scalable code and love practical solutions
+
+☕ Always up for coffee + good ideas. Yes!
+
+🤝 My purpose is bridging people and tech, strategy and execution, turning data into real-world impact.
