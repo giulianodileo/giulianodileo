@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Giuliano
 
-🚀 Data/AI professional with a background in tech recruitment and no-code automation.
+🚀 Data Science & AI professional with a background in tech recruitment and no-code automation.
 I started my journey helping tech teams grow, then got hooked on solving problems with data and AI.
 
 🎯 Recently graduated from a Data Science & AI bootcamp
