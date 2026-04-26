@@ -1,14 +1,11 @@
 ## 👋 Hey there! I'm Giuliano
 
-🚀 Data Science & AI professional with a background in tech recruitment and no-code automation.
-I started my journey helping tech teams grow, then got hooked on solving problems with data and AI.
+I'm a Data Engineer professional in the making, exploring how to build scalable data pipelines in Microsoft Azure.
 
-🎯 Recently graduated from a Data Science & AI bootcamp
+3 things about me to break the ice:
 
-🧩 Interested in data analysis, machine learning, and generative AI
+- I started my journey helping tech teams grow, working in talent acquisition. Here's where I discovered that data can become a true love language (when used properly!).
 
-⚙️ I focus on clean, scalable code and love practical solutions
+- Great coffee + good conversations = great ideas
 
-☕ Always up for coffee + good ideas. Yes!
-
-🤝 My purpose is bridging people and tech, strategy and execution, turning data into real-world impact.
+- I like bridging people and tech skills
